@@ -1,5 +1,3 @@
-package main;
-
 public class TelemetryData {
     // Die Attribute (Eigenschaften)
     private long timestamp;
