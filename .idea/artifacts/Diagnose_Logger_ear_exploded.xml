@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Diagnose-Logger:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Diagnose_Logger_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Diagnose-Logger/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="Diagnose-Logger:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
